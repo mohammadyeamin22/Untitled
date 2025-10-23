@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* set css-start */
+.set{
+  padding-left: 90px ;
+  padding-right: 90px;
+   
+}
+.cookwear i{
+  color: #FFB800;
+}
+/* set css-end */
+/* css-color start */
+.color{
+ background-color: #24BE5A;
+}
+/* css-color end */
+/* handel css-start */
+.handel img {
+  width: 500px;
+}
+/* handel css-end */
+/* accordian css-start */
+.faq{
+  height: 600px;
+}
+.accordion-button {
+background-color: #24BE5A;
+box-shadow: none;
+border-left:  1px solid   #24BE5A;
+}
+/* accordian css-end */
+
+/* footer css-start */
+footer {
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+/* footer css-end */
